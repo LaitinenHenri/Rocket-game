@@ -1,3 +1,6 @@
+// This code is created by Henri Laitinen
+// laitinenhenri@hotmail.com
+
 #include "Rocket.h"
 #include <iostream>
 #include "SFML/Window.hpp"
@@ -41,7 +44,7 @@ void Rocket::move_rocket(int move_speed)
 	//save the y of the current position
 	float y = position.y;
 
-	//Check if the ínitial launch height has been reached, if has booster empty == space will not move rocket anymore
+	//Check if the Ã­nitial launch height has been reached, if has booster empty == space will not move rocket anymore
 	if (max_height > y) {
 		max_height = y;
 		booster_empty = true;
