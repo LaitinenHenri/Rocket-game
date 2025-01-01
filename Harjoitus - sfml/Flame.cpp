@@ -1,3 +1,6 @@
+// This code is created by Henri Laitinen
+// laitinenhenri@hotmail.com
+
 #include "Flame.h"
 #include <iostream>
 
