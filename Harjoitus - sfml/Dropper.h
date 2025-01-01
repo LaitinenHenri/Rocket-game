@@ -1,3 +1,6 @@
+// This code is created by Henri Laitinen
+// laitinenhenri@hotmail.com
+
 #pragma once
 
 #include <iostream>
@@ -46,7 +49,7 @@ public:
 	//sprite for check light
 	sf::Sprite checklight;
 
-	//THis function is called in the mian when player has pressed the key corresponding to thsi drópper
+	//THis function is called in the mian when player has pressed the key corresponding to thsi drÃ³pper
 	//If the player pressed at the right time the check light will turn green, otherwise it will turn red
 	void selected();
 
