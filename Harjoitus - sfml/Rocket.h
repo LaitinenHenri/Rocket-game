@@ -1,3 +1,7 @@
+
+// This code is created by Henri Laitinen
+// laitinenhenri@hotmail.com
+
 #pragma once
 #include <iostream>
 #include "SFML/Window.hpp"
