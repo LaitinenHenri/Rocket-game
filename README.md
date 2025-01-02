@@ -1,4 +1,8 @@
 **Rocket Game**
+
+**LINK TO DEMO VIDEO**
+https://youtu.be/rsk3yXJkDsg
+
 Created by Henri Laitinen around May 2024
 This project is a rocket flying game created in C++ using SFML for graphics.
 
